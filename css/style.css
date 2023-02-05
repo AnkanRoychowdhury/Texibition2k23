@@ -2,6 +2,10 @@ body {
   font: 400 15px Lato, sans-serif;
   line-height: 1.8;
   background-color: #0A0608;
+  scrollbar-width: none;
+}
+body::-webkit-scrollbar {
+  display: none;
 }
 h1 {
   margin: 0;
@@ -343,7 +347,7 @@ span {
   position: absolute;
   left: 50%;
   top: 55%;
-  perspective: 2500px;
+  perspective: 1000px;
   z-index: 1;
 }
 
@@ -546,10 +550,10 @@ span {
     font-size: 80%;
   }
   .mh1 {
-    font-size: 450%;
+    font-size: 250%;
   }
   .mh2 {
-    font-size: 200%;
+    font-size: 100%;
   }
 }
 
