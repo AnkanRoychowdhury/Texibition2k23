@@ -430,7 +430,7 @@ span {
 
 #box-bottom {
   transform: translateX(-130px) rotateX(90deg);
-  background-image: url("../img/btb.jpg") ;
+  background-image: url("../img/bottombox2.jpg") ;
   background-size: cover;
   background-position: center;
   /* filter: grayscale(100%); */
