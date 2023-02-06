@@ -224,9 +224,7 @@ span {
 }
 
 @media (max-width: 768px) {
-  #vid {
-    display: none;
-  }
+
   #hero {
     background-image: url("../img/Capture.jpg");
     background-size: cover;
@@ -236,9 +234,7 @@ span {
 }
 
 @media (max-aspect-ratio: 16/9) {
-  #vid {
-    display: none;
-  }
+
   #hero {
     background-image: url("../img/Capture.jpg");
     background-size: cover;
