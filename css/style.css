@@ -390,7 +390,7 @@ span {
 
 #box-front {
   transform: translateX(-130px) translateY(-130px) translateZ(130px);
-  background-image: url("../img/frontbox.jpg");
+  background-image: url("../img/fb.jpg");
   background-size: cover;
   background-position: center;
   /* filter: grayscale(100%); */
@@ -398,7 +398,7 @@ span {
 
 #box-back {
   transform: translateX(-130px) translateY(-130px) translateZ(-130px);
-  background-image: url("../img/backbox.jpg");
+  background-image: url("../img/bcb.jpg");
   background-size: cover;
   background-position: center;
   /* filter: grayscale(100%); */
@@ -406,7 +406,7 @@ span {
 
 #box-right {
   transform: translateY(-130px) rotateY(90deg);
-  background-image: url("../img/rightbox.jpg");
+  background-image: url("../img/rb.jpg");
   background-size: cover;
   background-position: center;
   /* filter: grayscale(100%); */
@@ -414,7 +414,7 @@ span {
 
 #box-left {
   transform: translateY(-130px) translateX(-260px) rotateY(90deg);
-  background-image: url("../img/leftbox.jpg");
+  background-image: url("../img/lb.jpg");
   background-size: cover;
   background-position: center;
   /* filter: grayscale(100%); */
@@ -430,7 +430,7 @@ span {
 
 #box-bottom {
   transform: translateX(-130px) rotateX(90deg);
-  background-image: url("../img/bottombox.jpg") ;
+  background-image: url("../img/btb.jpg") ;
   background-size: cover;
   background-position: center;
   /* filter: grayscale(100%); */
